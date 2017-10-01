@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to website of SevenEight
 
 You can use the [editor on GitHub](https://github.com/SevenEight123/seveneight/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
